@@ -1,4 +1,4 @@
-# 📊 Excel Data Analysis & Operational Dashboard
+# ☕ Food & Beverage Retail Sales & Operational Dashboard
 
 ## 📌 Overview
 This project features an interactive Microsoft Excel dashboard designed to analyze key operational performance metrics, data trends, and summary statistics. By utilizing advanced Excel functions, pivot tables, and dynamic visual charts, this dashboard transforms raw tabular data into meaningful insights for decision-making.
@@ -20,6 +20,10 @@ Below is a preview of the Excel analysis dashboard:
 * **Dynamic Visualizations:** Interactive chart layouts and KPI summary metrics.
 
 ---
+
+## 💡 Key Insights & Findings
+* **Category Performance & Revenue Drivers:** Evaluated transaction metrics across food and beverage items (such as coffee, tea, desserts, and sandwiches) to identify top-performing product categories.
+* **Operational KPI Summarization:** Tracked overall sales growth, order volumes, and regional performance trends to streamline operational efficiency.
 
 ## 📁 Repository Structure
 ```text
